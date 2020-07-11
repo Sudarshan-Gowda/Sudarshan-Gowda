@@ -1,4 +1,4 @@
-### My small introduction!!
+### Introduction!!
 
 * Experienced Professional having 4 plus years of experience as <b>full stack developer</b> in software design, development, testing, debugging and maintenance of custom application software.
 
