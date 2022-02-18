@@ -6,4 +6,4 @@
 
 * Strong exposure and hand on experience in working with <b>Docker, Kubernetes and cloud based platform</b> like <i>Google cloud, Amazon web services, Azure</i>. And also involved in unit testing and worked on development methodology like Agile and Waterfall.
 
-* Good implementation knowledge in <b>core banking, trade and finance domain</b> of B2B, B2C application including project implementation in onsite (Cairo-Egypt, Singapore, Malaysia)
+* Good implementation knowledge in <b>core banking, trade and finance domain, insurance & medical domain</b> of B2B, B2C application including project implementation in onsite (Cairo-Egypt, Singapore, Malaysia)
